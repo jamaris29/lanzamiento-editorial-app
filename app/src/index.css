@@ -1,4 +1,4 @@
-﻿@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap');
 
 :root {
   /* ============================
@@ -10,7 +10,7 @@
   --text-secondary: #475569;
   --text-muted: #94a3b8;
 
-  --accent-primary: #059669;    /* Emerald 600 â€” CTA principal */
+  --accent-primary: #059669;    /* Emerald 600 - CTA principal */
   --accent-hover: #047857;      /* Emerald 700 */
   --accent-light: #d1fae5;      /* Emerald 100 â€” fondos de acento */
 
